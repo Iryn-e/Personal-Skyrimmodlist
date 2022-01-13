@@ -210,7 +210,7 @@ None at the moment
 
 None at the moment
 
--Top Mod: [Aesthetic Elves](https://www.nexusmods.com/skyrimspecialedition/mods/17033 "Link to Nexusmods")
+-Top Mod: []()
 \
 ** **
 &nbsp;
@@ -323,7 +323,7 @@ Mods:
 
 Mods to be used:
 * [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791 "Link to Nexusmods")
-* 
+* [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Link to Nexusmods")
 
 Purpose Reason:
 * Need an Environmental mod with a balance of little performance impact and good visuals.
@@ -658,5 +658,8 @@ Related Top Mod: [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspe
 * Unofficial Patches
 * SkyUI
 * SSE Engine Fixes
+
+
+
 
 
