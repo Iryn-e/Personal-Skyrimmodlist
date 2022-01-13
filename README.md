@@ -323,7 +323,7 @@ Mods:
 
 Mods to be used:
 * [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791 "Link to Nexusmods")
-* 
+* [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Link to Nexusmods")
 
 Purpose Reason:
 * Need an Environmental mod with a balance of little performance impact and good visuals.
