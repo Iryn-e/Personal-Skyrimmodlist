@@ -210,7 +210,7 @@ None at the moment
 
 None at the moment
 
--Top Mod: [Aesthetic Elves](https://www.nexusmods.com/skyrimspecialedition/mods/17033 "Link to Nexusmods")
+-Top Mod: []()
 \
 ** **
 &nbsp;
