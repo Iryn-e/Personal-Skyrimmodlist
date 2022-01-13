@@ -660,21 +660,3 @@ Related Top Mod: [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspe
 * SSE Engine Fixes
 
 
-
-I try to be brief here, but its so much in my mind I had to give context to give you an idea of what I'm trying to say.
-
-This is Skyrim SSE I'm using, and its after the anniversary update, but I hadn't bought the upgrade. I know how to downgrade version in case I need to use a mod that doesn't support the new update.
-
-So, I've spent about a few weeks planning mods that I want to use. I found some mods I'd certainly like to use, but then I realize that incompatibilities exist. And having lots of mods makes the mod manager feel disorganized and use up a lot of unwanted space.
-
-I decided to change my strategy by instead planning my mods, first installing the most essential ones (unofficial skyrim patch, SkyUI...) and then think about the categories of mods to take that improve the game, while taking into account if it will work with another mod (A weather mod will not work with another weather mod; for example)
-
-However, I'm left very... Lost.. As to what I should pick, especially for the environment, buildings and gameplay mods, basically I'm talking about the mods that don't just add content, but instead modifies some base part of the game, like the weather and graphic mods, the combat animations mod, the mods that changes the vanilla magic spells, stuff like that.
-
-I tried comparing Cathedral and Obsidian Weathers, but I barely could tell what the differences were, even when they were noticeably apparent. And I was also torn as to which overhauls or animations I liked, and even Immersion mods to use, while there was already an incredibly long list of amazing mods out there. Though I've at least settled in a few mods i'll definitely use, but those are things like weapons and quests, locations and things like that.
-
-I have a list of mods written down (About 60 of them, covering almost every aspect of the game). Most I picked are the ones with the most endorsements on Nexus, but it is also a personal guide for me to know what the mods are and how it alters the game exactly.
-
-I'm looking to improve the game by adding more content to experience the game with, a balance between fun and immersion, a balance between prettiness and performance and things that improve lacking aspects of the game, among a lot of other things, such as Alduin's last fight (where I'm thinking of using World Eater Beater). Some inconsistent aspects of the game that either ruin the fun or immersion. Immersion helps with my fun, I love listening to the story, and I also love difficult encounters and combat. If it doesn't hurt my performance, I'd like to use environment and texture mods to make it better overall as I experience the world.
-
-With that said, how do I know what mods to use?
