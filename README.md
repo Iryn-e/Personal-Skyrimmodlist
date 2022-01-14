@@ -738,7 +738,7 @@ A warrior that uses light, healing and warmth, heavy armor and normal weapons to
 The warrior uses healing spells, sunlight spells, runes, fire spells, calm and peace spells, alteration spells, two-handed hammers, one handed axes and shield and heavy armor.
 Skills : Two-handed, One-handed, Heavy armor, Enchanting, Smithing.
 \
-Restoration, Destruction, Alteration, Illusion
+Restoration 40%, Destruction 30%, Alteration 20%, Illusion 10%
 \
 The warrior shall uphold 5 or like 10 virtues or something.
 \
