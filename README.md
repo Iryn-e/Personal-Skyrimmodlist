@@ -138,7 +138,7 @@ Mods installed :
 
 Animations are good, but some improvements can always be made, especially when it comes to the running animation.
 
-Animation mods like these are often bundled up with plenty of other animations alongside it, however, you may need to install a few more of these animation mods if you are thinking of specifics and proper compatibility. Around maybe 2 to 5 mods in here or so.
+Animation mods like these are often bundled up with plenty of other animations alongside it, however, you may need to install a few more of these animation mods if you are thinking of specifics and proper compatibility.
 
 Mods installed :
 
@@ -152,7 +152,7 @@ Mods installed :
 
 ## Armour
 
-Armour has a lot of stuff in it. So far I've got 5 mods in this category (technically 4).
+Armour has a lot of stuff in it.
 
 -Top Mod: [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479 "Link to Nexusmods")
 \
@@ -162,7 +162,7 @@ Armour has a lot of stuff in it. So far I've got 5 mods in this category (techni
 
 ## Armour - Shields
 
-Shields are low category, with only really light and heavy shields to think about. I've got 3 mods in here.
+Shields are low category, with only really light and heavy shields to think about.
 
 -Top Mod: [Skyforge Shields SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4008 "Link to Nexusmods")
 \
@@ -171,7 +171,7 @@ Shields are low category, with only really light and heavy shields to think abou
 
 ## Audio
 
-There is sound effects, music and voice. I've got 3 mods in this category
+There is sound effects, music and voice.
 
 -Top Mod: [Immersive Sounds - Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523 "Link to Nexusmods")
 \
@@ -190,7 +190,6 @@ None at the moment
 ## Bug Fixes
 
 Plenty of bug fixes to take into consideration, the unoffical skyrim patch helps take out a large majority of them.
-I've got 3 mods in this so far.
 
 -Top Mod: [Unoffical Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266 "Link to Nexusmods")
 \
@@ -210,7 +209,7 @@ None at the moment
 
 None at the moment
 
--Top Mod: []()
+-Top Mod: [Aesthetic Elves](https://www.nexusmods.com/skyrimspecialedition/mods/17033 "Link to Nexusmods")
 \
 ** **
 &nbsp;
@@ -294,7 +293,7 @@ None at the moment
 
 ## Creatures and Mounts
 
-There's a lot of creatures in Skyrim, and even more can exist; I've got 4 mods in this category.\
+There's a lot of creatures in Skyrim, and even more can exist; \
 -Top Mod: [Diverse Dragons Collection SE (DDCSE)](https://www.nexusmods.com/skyrimspecialedition/mods/695 "Link to Nexusmods")
 \
 ** **
@@ -315,7 +314,7 @@ None at the moment
 
 Environmental relates to everything about the game's weather, the water, the landscapes and the environment, that isn't related to an object or item.
 
-Mods: 
+Mods:
 
 -Top Mod: [Realistic Water Two SE](https://www.nexusmods.com/skyrimspecialedition/mods/2182 "Link to Nexusmods")
 \
@@ -323,10 +322,10 @@ Mods:
 
 Mods to be used:
 * [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791 "Link to Nexusmods")
-* [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125 "Link to Nexusmods")
+* 
 
 Purpose Reason:
-* Need an Environmental mod with a balance of little performance impact and good visuals.
+* 
 
 &nbsp;
 
@@ -377,7 +376,7 @@ None at the moment
 
 ## Immersion
 
-Immersion is surmountably important in a role-playing game. This can help with that a little; I have 4 mods in this category so far.
+Immersion is surmountably important in a role-playing game. This can help with that a little;
 
 -Top Mod: [Immersive Citizens - AI Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/173 "Link to Nexusmods")
 \
@@ -431,7 +430,7 @@ None at the moment
 
 ## Magic - Spells & Enchantments
 
-Got some things here. 3 mods to be exact.
+Got some things here.
 
 -Top Mod: [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090 "Link to Nexusmods")
 \
@@ -461,7 +460,7 @@ None at the moment
 
 ## Models and Textures
 
-When something is in need of remodeling or retexturing, you use this; I have 1 mod in it so far.
+When something is in need of remodeling or retexturing, you use this;
 
 -Top Mod: [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659 "Link to Nexusmods")
 \
@@ -474,7 +473,7 @@ When something is in need of remodeling or retexturing, you use this; I have 1 m
 
 ## NPC
 
-Of course, NPC's are important tools for quests and storytelling. I have 1 mod in this category.
+Of course, NPC's are important tools for quests and storytelling.
 
 -Top Mod: [RS Children Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2650 "Link to Nexusmods")
 \
@@ -484,7 +483,7 @@ Of course, NPC's are important tools for quests and storytelling. I have 1 mod i
 
 ## Overhauls
 
-Some things need to be changed from scratch. So comes overhauls; I have 2 mods in this category so far.
+Some things need to be changed from scratch. So comes overhauls;
 
 -Top Mod: [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137 "Link to Nexusmods")
 \
@@ -502,7 +501,7 @@ None at the moment
 
 ## Player homes
 
-Player homes bring one's sense of "home sweet home" in life. I have 6 mods in this category so far.
+Player homes bring one's sense of "home sweet home" in life.
 
 -Top Mod: [Breezehome](https://www.nexusmods.com/skyrimspecialedition/mods/2829 "Link to Nexusmods")
 \
@@ -523,7 +522,7 @@ Installation Guide: https://www.youtube.com/watch?v=4k_Pa3eZT6M
 
 ## Quests and Adventures
 
-Quests are surmountable, and a lot of them ca  be installed for more content. I have 6 mods in this category so far.
+Quests are surmountable, and a lot of them ca  be installed for more content.
 
 -Top Mod: [Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802?tab=description "Link to Nexusmods")
 \
@@ -598,7 +597,7 @@ Top Mod: [SkyUI ... nuff said](https://www.nexusmods.com/skyrimspecialedition/mo
 
 ## Utilities
 
-Certain utilities may be needed for added manual functionality, I have 1 mod in this category at the moment.\
+Certain utilities may be needed for added manual functionality,\
 Top Mod: [Mod Organized 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194 "Link to Nexusmods")
 \
 **Won't need..?**
@@ -652,9 +651,102 @@ Related Top Mod: [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspe
 &nbsp;
 
 
-## Essential Mods
+## Mod order of Installation
 
-* Skyrim Script Extender (SKSE64)
-* Unofficial Patches
-* SkyUI
-* SSE Engine Fixes
+This is a list of mods in list of importance, especially for which ones to have installed when starting new game.
+
+### Critical
+
+* **Skyrim Script Extender (SKSE64)**
+\
+This is critically important to have in order for most mods to work
+
+### Essential
+
+* **SkyUI**
+\
+This is a major improvement to Skyrim's many features and better menus
+
+### Valuable
+
+* **Unofficial Patches**
+\
+This fixes a lot of the bugs in the game
+
+* **SSE Engine Fixes**
+\
+This fixes various issues related to the SSE engine
+
+### Big Content
+
+* **Legacy of the Dragonborn + Patches**
+\
+A mod with an great amount of fun content into Skyrim
+
+* **Static Mesh Improvement Mod - SMIM**
+\
+A mod that greatly improves 2D and 3D static meshes and models of Skyrim
+
+* **Beyond Skyrim - Bruma**
+\
+A mod of a new land to explore to from out of skyrim with a lot of added content.
+
+* **JK's Skyrim all in one**
+\
+A mod which completely overhauls all of Skyrim's cities and towns
+
+### Great
+
+* **Enhanced Lights and FX**
+\
+A mod that enhances the mood of Skyrim's lighting with better lights, graphics and entities.
+
+* **Ordinator**
+\
+x
+
+* **Complete Alchemy and Cooking Overhaul**
+\
+x
+
+* **Open Civil War SSE**
+\
+x
+
+* **Convenient Horses**
+\
+x
+
+* **A**
+\
+x
+
+* **A**
+\
+x
+
+* **A**
+\
+x
+
+## Personal Build - Knight of Stendarr
+
+### Basic Information
+
+A warrior that uses light, healing and warmth, heavy armor and normal weapons to guide his way.
+\
+The warrior uses healing spells, sunlight spells, runes, fire spells, calm and peace spells, alteration spells, two-handed hammers, one handed axes and shield and heavy armor.
+Skills : Two-handed, One-handed, Heavy armor, Enchanting, Smithing.
+\
+Restoration, Destruction, Alteration, Illusion
+\
+The warrior shall uphold 5 or like 10 virtues or something.
+\
+Treat every quest like a new quest, forgetting the outcomes of every other quest ever completed.
+Put the undead and evil to rest before they do harm to others.
+
+### Mods for Build
+
+* Stendarr's Hammer
+* Combat Surrender
+* Skyrim Reputation *?*
