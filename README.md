@@ -665,7 +665,7 @@ This is critically important to have in order for most mods to work
 
 * **SkyUI**
 \
-This is a major improvement to Skyrim's many features and better menus
+This is a major improvement to Skyrim's access menus and access to mod options
 
 ### Valuable
 
