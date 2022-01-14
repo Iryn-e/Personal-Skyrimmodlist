@@ -740,6 +740,8 @@ Skills : Two-handed, One-handed, Heavy armor, Enchanting, Smithing.
 \
 Restoration 40%, Destruction 30%, Alteration 20%, Illusion 10%
 \
+1/2/1
+\
 The warrior shall uphold 5 or like 10 virtues or something.
 \
 Treat every quest like a new quest, forgetting the outcomes of every other quest ever completed.
