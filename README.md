@@ -655,13 +655,13 @@ Related Top Mod: [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspe
 
 This is a list of mods in list of importance, especially for which ones to have installed when starting new game.
 
-### Critical
+### Essential
 
 * **Skyrim Script Extender (SKSE64)**
 \
 This is critically important to have in order for most mods to work
 
-### Essential
+### Handy
 
 * **SkyUI**
 \
